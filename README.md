@@ -16,7 +16,7 @@ A **Fersoft Tecnologia** é uma empresa especializada no desenvolvimento de sist
 Nosso principal produto, o **Fersoft ERP**, está presente em diversos setores, proporcionando mais controle, automação e agilidade para o dia a dia das empresas.
 
 > 🌐 [Site oficial](https://portal.fersofterp.com.br)  
-> 📧 Suporte: suporte@fersoftbr.com  
+> 📧 Suporte: suporte@fersofterp.com.br 
 > 📞 WhatsApp: (71) 98772-8488  
 
 ---
@@ -64,7 +64,7 @@ Antes de utilizar qualquer funcionalidade do sistema ou interagir com a platafor
 
 Caso tenha dúvidas, precise de ajuda técnica ou deseje relatar problemas relacionados ao Fersoft ERP Desktop, entre em contato com nossa equipe de suporte:
 
-- 📧 E-mail: suporte@fersoftbr.com  
+- 📧 E-mail: suporte@fersofterp.com.br
 - 📱 WhatsApp: (71) 98772-8488  
 - 🕒 Atendimento:  
   - Segunda a sexta: 08:00 às 18:00  
